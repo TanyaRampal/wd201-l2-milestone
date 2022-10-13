@@ -1,0 +1,15 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "My first node application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jane Doe <tanya_r@ec.iitr.ac.in>",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
